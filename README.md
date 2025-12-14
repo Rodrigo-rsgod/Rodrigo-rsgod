@@ -1,6 +1,6 @@
 ## Hi there 🔍
 
-I'm a Designer and Developer Full Stack Junior.<br>
+I'm Designer and Developer Full Stack Junior.<br>
 I have experience in front-end development and am proficient in technologies<br> 
 such as HTML5, CSS3, JavaScript (ES6+), and React.js, and good accessibility<br>
 and performance practices.
