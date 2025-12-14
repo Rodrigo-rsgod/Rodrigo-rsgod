@@ -2,7 +2,7 @@
 
 I'm Designer and Developer Full Stack Junior.<br>
 I have experience in front-end development and am proficient in technologies<br> 
-such as HTML5, CSS3, JavaScript (ES6+), and React.js, and good accessibility<br>
+such as HTML5, CSS3, Node.js, JavaScript (ES6+), and React.js, and good accessibility<br>
 and performance practices.
 I have a keen eye for responsive design and strive 
 <br>to create creative products that can foster real 
